@@ -50,7 +50,7 @@
     		echo "0 results";
 		}
 	}
-	
+	//
  ?>
 </body>
 </html>
